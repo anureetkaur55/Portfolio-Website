@@ -1,0 +1,190 @@
+[
+  {
+    "name": "C",
+    "icon": "https://img.icons8.com/color/48/c-programming.png"
+  },
+  {
+    "name": "C++",
+    "icon": "https://img.icons8.com/color/48/c-plus-plus-logo.png"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/python--v1.png"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/javascript--v1.png"
+  },
+  {
+    "name": "TypeScript",
+    "icon": "https://img.icons8.com/color/48/typescript.png"
+  },
+  {
+    "name": "Java",
+    "icon": "https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"
+  },
+  {
+    "name": "C#",
+    "icon": "https://img.icons8.com/color/48/c-sharp-logo.png"
+  },
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/html-5--v1.png"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/css3.png"
+  },
+  {
+    "name": "React",
+    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+  },
+  {
+    "name": "Next.js",
+    "icon": "https://img.icons8.com/color/48/nextjs.png"
+  },
+  {
+    "name": "NodeJS",
+    "icon": "https://img.icons8.com/color/48/nodejs.png"
+  },
+  {
+    "name": "NestJS",
+    "icon": "https://img.icons8.com/color/48/nestjs.png"
+  },
+  {
+    "name": "Django",
+    "icon": "https://img.icons8.com/windows/48/django.png"
+  },
+{
+    "name": "FastAPI",
+    "icon": "https://cdn.simpleicons.org/fastapi"
+},
+  {
+    "name": "Flask",
+    "icon": "https://img.icons8.com/ios-filled/50/flask.png"
+  },
+  {
+    "name": "TailwindCSS",
+    "icon": "https://img.icons8.com/color/48/tailwindcss.png"
+  },
+  {
+    "name": "Prisma",
+    "icon": "https://img.icons8.com/color/48/prisma-orm.png"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "https://img.icons8.com/color/48/mongodb.png"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/mysql-logo.png"
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "https://img.icons8.com/color/48/postgreesql.png"
+  },
+  {
+    "name": "Redis",
+    "icon": "https://img.icons8.com/color/48/redis.png"
+  },
+  {
+    "name": "OpenCV",
+    "icon": "https://img.icons8.com/color/48/opencv.png"
+  },
+  {
+    "name": "NumPy",
+    "icon": "https://img.icons8.com/color/48/numpy.png"
+  },
+  {
+    "name": "Pandas",
+    "icon": "https://img.icons8.com/color/48/pandas.png"
+  },
+  {
+    "name": "TensorFlow",
+    "icon": "https://img.icons8.com/color/48/tensorflow.png"
+  },
+  {
+    "name": "PyTorch",
+    "icon": "https://img.icons8.com/color/48/pytorch.png"
+  },
+  {
+    "name": "Git",
+    "icon": "https://img.icons8.com/color/48/git.png"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+  },
+  {
+    "name": "GitHub Actions",
+    "icon": "https://img.icons8.com/ios-filled/50/github.png"
+  },
+  {
+    "name": "Docker",
+    "icon": "https://img.icons8.com/color/48/docker.png"
+  },
+  {
+    "name": "Postman",
+    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
+  },
+  {
+    "name": "Playwright",
+    "icon": "https://playwright.dev/img/playwright-logo.svg"
+  },
+  {
+    "name": "NPM",
+    "icon": "https://img.icons8.com/color/48/npm.png"
+  },
+  {
+    "name": "Vercel",
+    "icon": "https://img.icons8.com/ios-filled/50/vercel.png"
+  },
+  {
+    "name": "Cloudflare",
+    "icon": "https://img.icons8.com/color/48/cloudflare.png"
+  },
+  {
+    "name": "DigitalOcean",
+    "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
+  },
+  {
+    "name": "WordPress",
+    "icon": "https://img.icons8.com/color/48/wordpress.png"
+  },
+  {
+    "name": "Arduino",
+    "icon": "https://img.icons8.com/color/48/arduino.png"
+  },
+  {
+    "name": "Raspberry Pi",
+    "icon": "https://img.icons8.com/color/48/raspberry-pi.png"
+  },
+  {
+    "name": "PowerShell",
+    "icon": "https://img.icons8.com/color/48/powershell.png"
+  },
+  {
+    "name": "Canva",
+    "icon": "https://img.icons8.com/color/48/canva.png"
+  },
+  {
+    "name": "Adobe",
+    "icon": "https://img.icons8.com/color/48/adobe-creative-cloud.png"
+  },
+{
+    "name": "Adobe Acrobat Reader",
+    "icon": "https://cdn.simpleicons.org/adobeacrobatreader"
+},
+  {
+    "name": "Notion",
+    "icon": "https://img.icons8.com/color/48/notion--v1.png"
+  },
+  {
+    "name": "Portfolio",
+    "icon": "https://img.icons8.com/color/48/domain.png"
+  },
+  {
+    "name": "React",
+    "icon": "https://img.icons8.com/color/48/react-native.png"
+  }
+]

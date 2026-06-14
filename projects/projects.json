@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Responsive Landing Page",
+    "desc": "Modern responsive landing page built with HTML, CSS, and JavaScript featuring smooth animations, mobile navigation, and a clean user interface.",
+    "image": "landingpage",
+    "category": "frontend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/anureetkaur55/Responsive-Landing-Page"
+    }
+  },
+  {
+    "name": "Cafe Delight Menu",
+    "desc": "A simple and elegant café menu website built using HTML and CSS with organized menu sections and aesthetic design.",
+    "image": "cafedelight",
+    "category": "frontend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/anureetkaur55/Cafe-Delight-Menu"
+    }
+  },
+  {
+    "name": "Advanced Virtual Electrical Lab",
+    "desc": "Interactive web-based electrical circuit simulator with real-time visualization, fuse protection, and animated user interface.",
+    "image": "electricalLab",
+    "category": "frontend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/anureetkaur55/Advanced-Virtual-Electrical-Lab"
+    }
+  },
+  {
+    "name": "CareTrack",
+    "desc": "Smart health monitoring application that helps users perform basic health checkups, generate reports, and access emergency assistance.",
+    "image": "caretrack",
+    "category": "frontend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/anureetkaur55/CARETRACK"
+    }
+  },
+  {
+    "name": "Library Management System",
+    "desc": "Python-based library management system for book cataloging, issue-return tracking, and user management.",
+    "image": "librarymanagement",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/anureetkaur55/Liberary-Management-System"
+    }
+  },
+  {
+    "name": "ATM System",
+    "desc": "Menu-driven ATM application developed in Python supporting deposits, withdrawals, balance inquiries, and transaction history.",
+    "image": "atmsystem",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/anureetkaur55/ATM-System"
+    }
+  },
+  {
+    "name": "Dice Roll Game",
+    "desc": "A Python-based dice rolling game built with modular functions and menu-driven architecture for clean code organization.",
+    "image": "diceroll",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/anureetkaur55/Dice-Roll-Game"
+    }
+  },
+  {
+    "name": "Smart Data Analyzer",
+    "desc": "Python application for analyzing datasets, generating insights, and processing structured data efficiently.",
+    "image": "dataanalyzer",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/anureetkaur55/smart-data-analyzer"
+    }
+  },
+  {
+    "name": "AI Voice Assistant",
+    "desc": "AI-powered voice assistant built with Python featuring speech recognition, text-to-speech, web automation, and AI integration.",
+    "image": "voiceassistant",
+    "category": "ai",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/anureetkaur55/Voice-Assistant"
+    }
+  },
+  {
+    "name": "Gesture Control AI",
+    "desc": "Computer vision project using OpenCV and MediaPipe to control volume, scrolling, and navigation through hand gestures.",
+    "image": "gesturecontrol",
+    "category": "ai",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/anureetkaur55/Gesture-Control-AI"
+    }
+  }
+]
+

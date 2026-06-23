@@ -1,5 +1,15 @@
 [
   {
+  "name": "AI Study Buddy",
+  "desc": "Multi-agent academic hub powered by FastAPI and Google AI. Features Tutor, Quiz, Study Planner, and Progress Tracking agents to help students learn smarter from uploaded notes and study materials.",
+  "image": "aistudybuddy",
+  "category": "ai",
+  "links": {
+    "view": "https://ai-study-buddy-h1i5.onrender.com/",
+    "code": "https://github.com/anureetkaur55/AI-Study-Buddy"
+  }
+},
+  {
     "name": "Responsive Landing Page",
     "desc": "Modern responsive landing page built with HTML, CSS, and JavaScript featuring smooth animations, mobile navigation, and a clean user interface.",
     "image": "landingpage",
